@@ -3,7 +3,7 @@
   <groupId>cn.enaium.cf4m</groupId>
   <artifactId>cf4m</artifactId>
   <versioning>
-    <release>1.9.3</release>
+    <release>1.9.4</release>
     <versions>
       <version>1.2.6</version>
       <version>1.3.0</version>
@@ -39,7 +39,8 @@
       <version>1.9.1</version>
       <version>1.9.2</version>
       <version>1.9.3</version>
+      <version>1.9.4</version>
     </versions>
-    <lastUpdated>20210606040457</lastUpdated>
+    <lastUpdated>20210608015913</lastUpdated>
   </versioning>
 </metadata>
