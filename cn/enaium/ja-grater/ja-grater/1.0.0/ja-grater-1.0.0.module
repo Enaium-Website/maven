@@ -1,0 +1,80 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "cn.enaium.ja-grater",
+    "module": "ja-grater",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "ja-grater-1.0.0.jar",
+          "url": "ja-grater-1.0.0.jar",
+          "size": 9330,
+          "sha512": "6be4f023dd13c94e6229d6bb2c87783897c7d1f36beebdd7189b89d03bb7ae734c750a13bb8c611616a6b9eca1f1c2ec178f63c2efd77422b8bd4bf49ff5550d",
+          "sha256": "dc0dd2e100557c360658669b0c047e29e54518f7b0ba8e686ce454fc049b8140",
+          "sha1": "c4611fe99e1dccf7167e4181a2b44f8863fd0378",
+          "md5": "01481b0188acb5ca040bc62c4e2670f3"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "ja-grater-1.0.0.jar",
+          "url": "ja-grater-1.0.0.jar",
+          "size": 9330,
+          "sha512": "6be4f023dd13c94e6229d6bb2c87783897c7d1f36beebdd7189b89d03bb7ae734c750a13bb8c611616a6b9eca1f1c2ec178f63c2efd77422b8bd4bf49ff5550d",
+          "sha256": "dc0dd2e100557c360658669b0c047e29e54518f7b0ba8e686ce454fc049b8140",
+          "sha1": "c4611fe99e1dccf7167e4181a2b44f8863fd0378",
+          "md5": "01481b0188acb5ca040bc62c4e2670f3"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "ja-grater-1.0.0-sources.jar",
+          "url": "ja-grater-1.0.0-sources.jar",
+          "size": 4872,
+          "sha512": "6bacbd9b19f0b42a6ef123cc15d1f5ea8ecabdb7e1bc3934730eda5f38400d8165bc5f51a29250aab0fa7c97d99228a267473c3fb1ec4965fb5cfd76b7c0c360",
+          "sha256": "7b18a7c53df17ff95d09e9b8187f88a31a8ede625b24aa4420bd980f1552204f",
+          "sha1": "3b39a1e807ad5f057567060d4e021d831e403601",
+          "md5": "1aeaba5ecf435d503218927dba47f784"
+        }
+      ]
+    }
+  ]
+}
