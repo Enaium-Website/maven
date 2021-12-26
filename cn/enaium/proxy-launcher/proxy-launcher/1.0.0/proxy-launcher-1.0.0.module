@@ -1,0 +1,116 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "cn.enaium.proxy-launcher",
+    "module": "proxy-launcher",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "proxy-launcher-1.0.0.jar",
+          "url": "proxy-launcher-1.0.0.jar",
+          "size": 10892,
+          "sha512": "20dfcc22482e12519f8cbaf7630e3c1edc644cb1e04a154e14e199cb3f885e5fc26bd3188086666e6165bb54076c0140c414b6b28d2245262bcf1943c7d6951f",
+          "sha256": "8618cea9a12bef14995374f8a52f9ec287ece023399ad538e34193ab737f74cd",
+          "sha1": "b473b2a45549653a620c80ace100ce2c7ae83010",
+          "md5": "856a219857dd27ff23288260554594a2"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "commons-io",
+          "module": "commons-io",
+          "version": {
+            "requires": "2.11.0"
+          }
+        },
+        {
+          "group": "com.github.monkeywie",
+          "module": "proxyee",
+          "version": {
+            "requires": "1.5.4"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "proxy-launcher-1.0.0.jar",
+          "url": "proxy-launcher-1.0.0.jar",
+          "size": 10892,
+          "sha512": "20dfcc22482e12519f8cbaf7630e3c1edc644cb1e04a154e14e199cb3f885e5fc26bd3188086666e6165bb54076c0140c414b6b28d2245262bcf1943c7d6951f",
+          "sha256": "8618cea9a12bef14995374f8a52f9ec287ece023399ad538e34193ab737f74cd",
+          "sha1": "b473b2a45549653a620c80ace100ce2c7ae83010",
+          "md5": "856a219857dd27ff23288260554594a2"
+        }
+      ]
+    },
+    {
+      "name": "shadowRuntimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "shadowed",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "proxy-launcher-1.0.0-all.jar",
+          "url": "proxy-launcher-1.0.0-all.jar",
+          "size": 401066,
+          "sha512": "22984a0490c358e90e9e6d8ec99b06f24f2282502957ad510e5197a4df35b8793d43109a8080fb10e58e9ce2c9cee7036eddd0f1e4deac2079179d61dee570e0",
+          "sha256": "5da7eca151a228718a073b466c642951d4fe3ff22b53885206e81c895707a846",
+          "sha1": "3d80030c3d1709c9f8b05b6bb8ce1ad2d2d1fddd",
+          "md5": "9623ab0e12a5e08a7eb1bdcf5369657c"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "proxy-launcher-1.0.0-sources.jar",
+          "url": "proxy-launcher-1.0.0-sources.jar",
+          "size": 4921,
+          "sha512": "506b903af0622d59d9c611c724c118b03e0729a04ba61a3020bd26382a3a00f8f69c575f7bbc6b24512658ce8bf343c46863a8be866c18196f28a74766105e2c",
+          "sha256": "e970efc8fd494045592ecbfa1c58a3214477083ed488a551e022e1e160f01cf9",
+          "sha1": "7c1dd07f716cc6ca3afd6602c39083e3a6042476",
+          "md5": "59e66c09840c62e2a9b8426cc02116a4"
+        }
+      ]
+    }
+  ]
+}
