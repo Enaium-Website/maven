@@ -34,6 +34,17 @@
     </distributionManagement>
 
     <build>
+        <resources>
+            <resource>
+                <directory>src/main/java</directory>
+                <includes>
+                    <include>**/*.properties</include>
+                </includes>
+            </resource>
+            <resource>
+                <directory>src/main/resources</directory>
+            </resource>
+        </resources>
         <plugins>
             <plugin>
                 <artifactId>maven-compiler-plugin</artifactId>
@@ -44,29 +55,24 @@
             </plugin>
             <plugin>
                 <artifactId>maven-assembly-plugin</artifactId>
+                <version>3.3.0</version>
                 <configuration>
                     <archive>
                         <manifest>
-                            <Manifest-Version>1.0</Manifest-Version>
                             <mainClass>cn.enaium.proxy.launcher.ProxyLauncher</mainClass>
+                        </manifest>
+                        <manifestEntries>
                             <Implementation-Title>${name}</Implementation-Title>
                             <Implementation-Version>${version}</Implementation-Version>
                             <Implementation-Vendor>${groupId}</Implementation-Vendor>
-                            <Implementation-Timestamp>yyyy-MM-dd HH:mm:ss</Implementation-Timestamp>
-                        </manifest>
+                        </manifestEntries>
                     </archive>
                     <descriptorRefs>
                         <descriptorRef>
                             jar-with-dependencies
                         </descriptorRef>
                     </descriptorRefs>
-                    <attach>true</attach>
                 </configuration>
-                <executions>
-                    <execution>
-                        <phase>compile</phase>
-                    </execution>
-                </executions>
             </plugin>
             <plugin>
                 <artifactId>maven-source-plugin</artifactId>
