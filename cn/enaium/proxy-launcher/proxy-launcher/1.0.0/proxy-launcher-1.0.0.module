@@ -28,10 +28,10 @@
           "name": "proxy-launcher-1.0.0.jar",
           "url": "proxy-launcher-1.0.0.jar",
           "size": 10893,
-          "sha512": "fd2fea860074025d59f9dd9332a82e311f051ed1d9164ded7a6ee8e3a8f0eb6925c3069c532b3fa4f2e672851106f04be742ec7e25bff489c39e76da76f172c5",
-          "sha256": "75ead183281a763c42aeeec98f91ea301a2a66f5b645e42745406fc2c4da5eb2",
-          "sha1": "5a0b6b2473ef8db1064b3f5b7a99bc1201baf31f",
-          "md5": "d64c2f70f90f404624058108d5634542"
+          "sha512": "ead23ea26fb1c6b4e85ac03b626364f64ce765236d2bde1b701efa95fae2d23e8fa429a0de000eb7c9fdcba735260519c9f2ca29824f40164ce8605e98058dc0",
+          "sha256": "0a880c00971ef843eebc4e42179085f81ae49333f99a41a26e441c63172013ed",
+          "sha1": "cd885d2af0e6b1caed97a7570980b84319a52463",
+          "md5": "32ce9dcaaa98f7a9f7801dc7e6d57d6b"
         }
       ]
     },
@@ -65,10 +65,10 @@
           "name": "proxy-launcher-1.0.0.jar",
           "url": "proxy-launcher-1.0.0.jar",
           "size": 10893,
-          "sha512": "fd2fea860074025d59f9dd9332a82e311f051ed1d9164ded7a6ee8e3a8f0eb6925c3069c532b3fa4f2e672851106f04be742ec7e25bff489c39e76da76f172c5",
-          "sha256": "75ead183281a763c42aeeec98f91ea301a2a66f5b645e42745406fc2c4da5eb2",
-          "sha1": "5a0b6b2473ef8db1064b3f5b7a99bc1201baf31f",
-          "md5": "d64c2f70f90f404624058108d5634542"
+          "sha512": "ead23ea26fb1c6b4e85ac03b626364f64ce765236d2bde1b701efa95fae2d23e8fa429a0de000eb7c9fdcba735260519c9f2ca29824f40164ce8605e98058dc0",
+          "sha256": "0a880c00971ef843eebc4e42179085f81ae49333f99a41a26e441c63172013ed",
+          "sha1": "cd885d2af0e6b1caed97a7570980b84319a52463",
+          "md5": "32ce9dcaaa98f7a9f7801dc7e6d57d6b"
         }
       ]
     },
@@ -85,10 +85,10 @@
           "name": "proxy-launcher-1.0.0-all.jar",
           "url": "proxy-launcher-1.0.0-all.jar",
           "size": 401067,
-          "sha512": "ae07777960c613c618dfed3c73b799476b765bfcafba5e03e50d722b88869d12d385d97a26f65cda3613593ad59053ab1191c04d462e84621e718907e05af493",
-          "sha256": "d6d14f533c6da519a90ed17be427f0852a07efae673c3cf8259eccde1a56f50e",
-          "sha1": "ee0208048dfdac95ff5a585e32845b21b7a21797",
-          "md5": "2d82c5464599da52085ca7cdcf2b4de8"
+          "sha512": "433ccfb622c070df3038e5090daafde8aabf2454c9e797966798559353d6432c830ae8ba298718dfc2f60d94f840a5b06991398d4c9fa5b55f1dae51aa2783a7",
+          "sha256": "fc7ed76f29d9d537ea3b06783f54c1168baa32b852bc4fbec35dd9aea177c802",
+          "sha1": "b060fd959b8d480462daed9594b6e084818e2284",
+          "md5": "fef435e9d479dead5d894a7a0ef7fd10"
         }
       ]
     },
