@@ -14,13 +14,13 @@
       <groupId>commons-io</groupId>
       <artifactId>commons-io</artifactId>
       <version>2.11.0</version>
-      <scope>provided</scope>
+      <scope>comlile</scope>
     </dependency>
     <dependency>
       <groupId>com.github.monkeywie</groupId>
       <artifactId>proxyee</artifactId>
       <version>1.5.4</version>
-      <scope>provided</scope>
+      <scope>comlile</scope>
     </dependency>
   </dependencies>
 </project>
