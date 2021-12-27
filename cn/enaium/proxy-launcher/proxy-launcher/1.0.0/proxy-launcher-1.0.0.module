@@ -27,11 +27,11 @@
         {
           "name": "proxy-launcher-1.0.0.jar",
           "url": "proxy-launcher-1.0.0.jar",
-          "size": 10892,
-          "sha512": "20dfcc22482e12519f8cbaf7630e3c1edc644cb1e04a154e14e199cb3f885e5fc26bd3188086666e6165bb54076c0140c414b6b28d2245262bcf1943c7d6951f",
-          "sha256": "8618cea9a12bef14995374f8a52f9ec287ece023399ad538e34193ab737f74cd",
-          "sha1": "b473b2a45549653a620c80ace100ce2c7ae83010",
-          "md5": "856a219857dd27ff23288260554594a2"
+          "size": 10893,
+          "sha512": "fd2fea860074025d59f9dd9332a82e311f051ed1d9164ded7a6ee8e3a8f0eb6925c3069c532b3fa4f2e672851106f04be742ec7e25bff489c39e76da76f172c5",
+          "sha256": "75ead183281a763c42aeeec98f91ea301a2a66f5b645e42745406fc2c4da5eb2",
+          "sha1": "5a0b6b2473ef8db1064b3f5b7a99bc1201baf31f",
+          "md5": "d64c2f70f90f404624058108d5634542"
         }
       ]
     },
@@ -64,11 +64,11 @@
         {
           "name": "proxy-launcher-1.0.0.jar",
           "url": "proxy-launcher-1.0.0.jar",
-          "size": 10892,
-          "sha512": "20dfcc22482e12519f8cbaf7630e3c1edc644cb1e04a154e14e199cb3f885e5fc26bd3188086666e6165bb54076c0140c414b6b28d2245262bcf1943c7d6951f",
-          "sha256": "8618cea9a12bef14995374f8a52f9ec287ece023399ad538e34193ab737f74cd",
-          "sha1": "b473b2a45549653a620c80ace100ce2c7ae83010",
-          "md5": "856a219857dd27ff23288260554594a2"
+          "size": 10893,
+          "sha512": "fd2fea860074025d59f9dd9332a82e311f051ed1d9164ded7a6ee8e3a8f0eb6925c3069c532b3fa4f2e672851106f04be742ec7e25bff489c39e76da76f172c5",
+          "sha256": "75ead183281a763c42aeeec98f91ea301a2a66f5b645e42745406fc2c4da5eb2",
+          "sha1": "5a0b6b2473ef8db1064b3f5b7a99bc1201baf31f",
+          "md5": "d64c2f70f90f404624058108d5634542"
         }
       ]
     },
@@ -84,11 +84,11 @@
         {
           "name": "proxy-launcher-1.0.0-all.jar",
           "url": "proxy-launcher-1.0.0-all.jar",
-          "size": 401066,
-          "sha512": "22984a0490c358e90e9e6d8ec99b06f24f2282502957ad510e5197a4df35b8793d43109a8080fb10e58e9ce2c9cee7036eddd0f1e4deac2079179d61dee570e0",
-          "sha256": "5da7eca151a228718a073b466c642951d4fe3ff22b53885206e81c895707a846",
-          "sha1": "3d80030c3d1709c9f8b05b6bb8ce1ad2d2d1fddd",
-          "md5": "9623ab0e12a5e08a7eb1bdcf5369657c"
+          "size": 401067,
+          "sha512": "ae07777960c613c618dfed3c73b799476b765bfcafba5e03e50d722b88869d12d385d97a26f65cda3613593ad59053ab1191c04d462e84621e718907e05af493",
+          "sha256": "d6d14f533c6da519a90ed17be427f0852a07efae673c3cf8259eccde1a56f50e",
+          "sha1": "ee0208048dfdac95ff5a585e32845b21b7a21797",
+          "md5": "2d82c5464599da52085ca7cdcf2b4de8"
         }
       ]
     },
