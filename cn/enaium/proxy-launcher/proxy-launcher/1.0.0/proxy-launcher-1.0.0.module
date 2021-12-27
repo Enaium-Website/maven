@@ -27,11 +27,11 @@
         {
           "name": "proxy-launcher-1.0.0.jar",
           "url": "proxy-launcher-1.0.0.jar",
-          "size": 10893,
-          "sha512": "85dbb832d0639d97fac7db70919d3ad29d205173b699647d6c4517afe79408ce7ced7e625d53d33ce3222fa69eeafdace2f125aa4015ce512fb9f9c9b97f6d2b",
-          "sha256": "b5d87da29d948cf8cbd542db04d916ff5175a84da8bea5e64fea79b97eb1b8fa",
-          "sha1": "fb0176947a3a5ca8bbb1cc9c7e2c06e197f0ce93",
-          "md5": "0485dfc34eb8db0e51c0054652cb829e"
+          "size": 10900,
+          "sha512": "4ad975c4aaa7fe1ce65823cb1613e47340433e04070d0dcb01928eec7784b216168b2bee698750c84f4dcfe7bf74bc99b0f9808f7cea7a5c62e7682251542f54",
+          "sha256": "c2a34cdebd8a0b61f3b4f0cff3086b7f9da6636199a5d9141d6e3f41e09be466",
+          "sha1": "e21db133d0896d683a23ccfda1c6f6dd65b9e688",
+          "md5": "3fccf27876101afbae654d3e2b835dd0"
         }
       ]
     },
@@ -64,11 +64,11 @@
         {
           "name": "proxy-launcher-1.0.0.jar",
           "url": "proxy-launcher-1.0.0.jar",
-          "size": 10893,
-          "sha512": "85dbb832d0639d97fac7db70919d3ad29d205173b699647d6c4517afe79408ce7ced7e625d53d33ce3222fa69eeafdace2f125aa4015ce512fb9f9c9b97f6d2b",
-          "sha256": "b5d87da29d948cf8cbd542db04d916ff5175a84da8bea5e64fea79b97eb1b8fa",
-          "sha1": "fb0176947a3a5ca8bbb1cc9c7e2c06e197f0ce93",
-          "md5": "0485dfc34eb8db0e51c0054652cb829e"
+          "size": 10900,
+          "sha512": "4ad975c4aaa7fe1ce65823cb1613e47340433e04070d0dcb01928eec7784b216168b2bee698750c84f4dcfe7bf74bc99b0f9808f7cea7a5c62e7682251542f54",
+          "sha256": "c2a34cdebd8a0b61f3b4f0cff3086b7f9da6636199a5d9141d6e3f41e09be466",
+          "sha1": "e21db133d0896d683a23ccfda1c6f6dd65b9e688",
+          "md5": "3fccf27876101afbae654d3e2b835dd0"
         }
       ]
     },
@@ -84,11 +84,11 @@
         {
           "name": "proxy-launcher-1.0.0-all.jar",
           "url": "proxy-launcher-1.0.0-all.jar",
-          "size": 401067,
-          "sha512": "bc3a8f0c7b829e82113068506fb813df7dc5544f3e60710b39a91e1e098274ee65dec9c010ce76a29b39866af07c8c1b8d1efa58709ee924203d10b9f7db9bb1",
-          "sha256": "54c833c74e8ceba7a0b732ca2903b336b3fdbcc86654f6911c18b7fef46edda5",
-          "sha1": "f969d501479e189d9470fb7d021c2978287e50fe",
-          "md5": "f2cdb29367beb83294ffa7f257bb99fb"
+          "size": 401074,
+          "sha512": "bdae6c28eea34ec0f29549155d7969752311519c96060f41094b779ed36f58c27e08a60b3cc7b9d7f0789ee08a68abfb557d642e75830c66dd832b8601af024d",
+          "sha256": "d73e6ff1c21b01bb2e9ee2eec6809359b76e73235364e195f85d8e1cc7ad6aea",
+          "sha1": "c93821b5015d5bb9137dd00092bf269af2441720",
+          "md5": "8b234f89d7b852df1e171f67ff6f2497"
         }
       ]
     },
@@ -104,11 +104,11 @@
         {
           "name": "proxy-launcher-1.0.0-sources.jar",
           "url": "proxy-launcher-1.0.0-sources.jar",
-          "size": 4921,
-          "sha512": "506b903af0622d59d9c611c724c118b03e0729a04ba61a3020bd26382a3a00f8f69c575f7bbc6b24512658ce8bf343c46863a8be866c18196f28a74766105e2c",
-          "sha256": "e970efc8fd494045592ecbfa1c58a3214477083ed488a551e022e1e160f01cf9",
-          "sha1": "7c1dd07f716cc6ca3afd6602c39083e3a6042476",
-          "md5": "59e66c09840c62e2a9b8426cc02116a4"
+          "size": 4875,
+          "sha512": "a853b041ccda70d8bf054232a1d7ea2994709c23b8f57d08e2aa392e8135f5903d520b927e1bb1a835d10ee11b30d8de19f0ac89a8fff9c25e2b9cdf7ec4a538",
+          "sha256": "d91cc573c39f9a15211985b561784f8a8d4b73484d55cfa63f509b16b1bcd1e2",
+          "sha1": "12ac220a9d57e1e0168ccf03f96acb80e882662c",
+          "md5": "58b0eed57424096f567f8e7b871f4f8c"
         }
       ]
     }
