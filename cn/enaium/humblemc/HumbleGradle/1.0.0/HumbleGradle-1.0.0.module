@@ -1,0 +1,118 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "cn.enaium.humblemc",
+    "module": "HumbleGradle",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "HumbleGradle-1.0.0.jar",
+          "url": "HumbleGradle-1.0.0.jar",
+          "size": 42411,
+          "sha512": "acfb90329a73c2756f1f5bd244996ab9fc59904d213cc8eff4f980c07a07e964258d41caa4c268b99ba5b5bf3e9d7c842e815a2b350dbec4665d2ac0ddc86cbf",
+          "sha256": "7ce5e0c27e0acd2c05d4d4167e7046ecb1ae7983170ceee780cb2ef91274b0f0",
+          "sha1": "1b4aef9a4bea1a99bbcab5e771e6e76662b0227c",
+          "md5": "550d860384f5a32355055745cd038770"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "commons-codec",
+          "module": "commons-codec",
+          "version": {
+            "requires": "1.15"
+          }
+        },
+        {
+          "group": "commons-io",
+          "module": "commons-io",
+          "version": {
+            "requires": "2.11.0"
+          }
+        },
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.8.9"
+          }
+        },
+        {
+          "group": "org.ow2.asm",
+          "module": "asm",
+          "version": {
+            "requires": "9.2"
+          }
+        },
+        {
+          "group": "org.ow2.asm",
+          "module": "asm-analysis",
+          "version": {
+            "requires": "9.2"
+          }
+        },
+        {
+          "group": "org.ow2.asm",
+          "module": "asm-commons",
+          "version": {
+            "requires": "9.2"
+          }
+        },
+        {
+          "group": "org.ow2.asm",
+          "module": "asm-tree",
+          "version": {
+            "requires": "9.2"
+          }
+        },
+        {
+          "group": "org.ow2.asm",
+          "module": "asm-util",
+          "version": {
+            "requires": "9.2"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "HumbleGradle-1.0.0.jar",
+          "url": "HumbleGradle-1.0.0.jar",
+          "size": 42411,
+          "sha512": "acfb90329a73c2756f1f5bd244996ab9fc59904d213cc8eff4f980c07a07e964258d41caa4c268b99ba5b5bf3e9d7c842e815a2b350dbec4665d2ac0ddc86cbf",
+          "sha256": "7ce5e0c27e0acd2c05d4d4167e7046ecb1ae7983170ceee780cb2ef91274b0f0",
+          "sha1": "1b4aef9a4bea1a99bbcab5e771e6e76662b0227c",
+          "md5": "550d860384f5a32355055745cd038770"
+        }
+      ]
+    }
+  ]
+}
