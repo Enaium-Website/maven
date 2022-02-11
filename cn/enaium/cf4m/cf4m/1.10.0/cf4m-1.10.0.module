@@ -1,0 +1,60 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "cn.enaium.cf4m",
+    "module": "cf4m",
+    "version": "1.10.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "cf4m-1.10.0.jar",
+          "url": "cf4m-1.10.0.jar",
+          "size": 65236,
+          "sha512": "5de32610d2e8501a1f60892408c4a610a1cbb8686a36d817313e63a7f2d0369778d459c735c9f52da96eaf4370482d627d877f4ef4f69ab772cd4c6800d77f51",
+          "sha256": "0cbc9cc2d596490b3c92e91e16526152aa63681e0fab9501154e31f90594e39c",
+          "sha1": "bb8384567ef9e336969500f7a6e5452f3ac1412a",
+          "md5": "e1be30f3d207451e7a7cb555d713c6ee"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "cf4m-1.10.0.jar",
+          "url": "cf4m-1.10.0.jar",
+          "size": 65236,
+          "sha512": "5de32610d2e8501a1f60892408c4a610a1cbb8686a36d817313e63a7f2d0369778d459c735c9f52da96eaf4370482d627d877f4ef4f69ab772cd4c6800d77f51",
+          "sha256": "0cbc9cc2d596490b3c92e91e16526152aa63681e0fab9501154e31f90594e39c",
+          "sha1": "bb8384567ef9e336969500f7a6e5452f3ac1412a",
+          "md5": "e1be30f3d207451e7a7cb555d713c6ee"
+        }
+      ]
+    }
+  ]
+}
