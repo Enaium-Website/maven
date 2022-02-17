@@ -3,7 +3,7 @@
   "component": {
     "group": "cn.enaium.humblemc",
     "module": "HumbleGradle",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -25,13 +25,13 @@
       },
       "files": [
         {
-          "name": "HumbleGradle-1.0.0.jar",
-          "url": "HumbleGradle-1.0.0.jar",
-          "size": 42513,
-          "sha512": "e6486eed88686f237ab771afdaec22ac4eb3f520ce73e8bc1e1cb95b6c162742ccd3b5d9442fffbe923512b4f1b7810c223c4de19e6135bc19be96996e2f0fc3",
-          "sha256": "72ca482ae41ed373f53070f475558f129778e9e868e6c17c098b0c7145a13f8d",
-          "sha1": "95a4f0f1a5d1a8f54b4f3d20dc1d6bfaf38752de",
-          "md5": "e0fa75c4d85ff2be7f093b0703a87864"
+          "name": "HumbleGradle-1.1.0.jar",
+          "url": "HumbleGradle-1.1.0.jar",
+          "size": 43257,
+          "sha512": "517f8440a97532cc970725ae20bc28922b9cc9ecf2c0d5a4f63f619f2fa0ab1932c03ee0d8a9807089f05903d0ff0d3c0e0e357cddba5c11d300cd0f320c7726",
+          "sha256": "c3e618c228d7292ffb29272b9162b9b5c175dc12a14c3f5069f94dcfa1b246e5",
+          "sha1": "0e42aef5f31b52ae20456ca98b58ad8a6fb7d044",
+          "md5": "32c48ee421c53eaeea02ada0919eb5c3"
         }
       ]
     },
@@ -100,17 +100,31 @@
           "version": {
             "requires": "9.2"
           }
+        },
+        {
+          "group": "org.spongepowered",
+          "module": "mixin",
+          "version": {
+            "requires": "0.8.5"
+          }
+        },
+        {
+          "group": "com.google.guava",
+          "module": "guava",
+          "version": {
+            "requires": "31.0.1-jre"
+          }
         }
       ],
       "files": [
         {
-          "name": "HumbleGradle-1.0.0.jar",
-          "url": "HumbleGradle-1.0.0.jar",
-          "size": 42513,
-          "sha512": "e6486eed88686f237ab771afdaec22ac4eb3f520ce73e8bc1e1cb95b6c162742ccd3b5d9442fffbe923512b4f1b7810c223c4de19e6135bc19be96996e2f0fc3",
-          "sha256": "72ca482ae41ed373f53070f475558f129778e9e868e6c17c098b0c7145a13f8d",
-          "sha1": "95a4f0f1a5d1a8f54b4f3d20dc1d6bfaf38752de",
-          "md5": "e0fa75c4d85ff2be7f093b0703a87864"
+          "name": "HumbleGradle-1.1.0.jar",
+          "url": "HumbleGradle-1.1.0.jar",
+          "size": 43257,
+          "sha512": "517f8440a97532cc970725ae20bc28922b9cc9ecf2c0d5a4f63f619f2fa0ab1932c03ee0d8a9807089f05903d0ff0d3c0e0e357cddba5c11d300cd0f320c7726",
+          "sha256": "c3e618c228d7292ffb29272b9162b9b5c175dc12a14c3f5069f94dcfa1b246e5",
+          "sha1": "0e42aef5f31b52ae20456ca98b58ad8a6fb7d044",
+          "md5": "32c48ee421c53eaeea02ada0919eb5c3"
         }
       ]
     }
